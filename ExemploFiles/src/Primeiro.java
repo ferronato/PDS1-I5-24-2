@@ -10,7 +10,7 @@ public class Primeiro {
 		try {
 			if (!f1.exists()) {
 				f1.createNewFile();
-				System.out.println("Arquivo novo criado!!");
+				System.out.println("Arquivo novo criado!!!");
 
 			} else if (f1.exists() && f1.isDirectory()) {
 				System.out.println("Objeto existe, é um diretório!");
