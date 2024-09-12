@@ -3,6 +3,7 @@ import java.io.IOException;
 
 public class Primeiro {
 
+	//Arquivo novo
 	public static void main(String[] args) {
 		//Tenta criar um arquivo se não existe
 		//Caso exista, verifica se e diretorio ou pasta. 
