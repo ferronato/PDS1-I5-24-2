@@ -5,7 +5,7 @@ public class Primeiro {
 
 	public static void main(String[] args) {
 		//Tenta criar um arquivo se não existe
-		//Caso exista, verifica se é diretorio ou pasta. 
+		//Caso exista, verifica se e diretorio ou pasta. 
 		File f1 = new File("testes.txt");
 		try {
 			if (!f1.exists()) {
