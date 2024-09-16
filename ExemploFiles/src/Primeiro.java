@@ -55,7 +55,7 @@ public class Primeiro {
 			System.out.println("Algum erro aconteceu!");
 		}
 		
-		//Abrir um arquivo e ler seu conteúdo
+		//Abrir um arquivo e ler seu conteudo
 		String caminhoDoArquivo = "C:\\Users\\Aluno\\git\\PDS1-I5-24-2\\teste3.txt";
 		try {
 			@SuppressWarnings("resource")
